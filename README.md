@@ -3,7 +3,7 @@ Hello world, this is Klaus
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=thelaving&color=red)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/thelaving?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
-<a href="https://instagram.com/z_laving"><img src="https://img.shields.io/badge/@z_laving-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/z_laving"><img src="https://img.shields.io/badge/@klausqwe-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
